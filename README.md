@@ -15,11 +15,11 @@ Hi, I’m fcvsb, a software developer focused on building Minecraft plugins that
 ---
 
 ### What I work on
-- Minecraft plugin development (Spigot) 
+- **Minecraft plugin development (Spigot) 
 ---
 
 ### Stack
-**Java
+Java
 
 ---
 
