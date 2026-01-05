@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/143004358?s=400" width="120" style="border-radius:50%" />
+<img src="" width="120" style="border-radius:50%" />
 
 # fcvsb_  
 Minecraft Plugin Developer
